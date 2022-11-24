@@ -606,7 +606,7 @@ button[type=button]{
   text-align: center;
   background: #21D19F;
   transition: 0.3s;
-  width: 50%;
+  width: 100%;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
